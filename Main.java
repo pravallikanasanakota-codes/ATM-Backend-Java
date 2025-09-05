@@ -37,7 +37,7 @@ public class Main {
 		     System.out.println("3.deposit");
 		     System.out.println("4.History of transcation ");
 		     System.out.println("5.logout");
-		    System.out.println("Choose the option from to 1-6:");
+		    System.out.println("Choose the option from to 1-5:");
 			
 			int option=sc.nextInt();
 			switch(option) {
@@ -91,3 +91,4 @@ public class Main {
 		
 		
 	
+
